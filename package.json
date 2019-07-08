@@ -1,6 +1,6 @@
 {
   "name": "rc-tooltip",
-  "version": "3.7.3",
+  "version": "3.7.6",
   "description": "React Tooltip",
   "keywords": [
     "react",
@@ -15,7 +15,6 @@
     "assets/*.css"
   ],
   "main": "lib/index",
-  "module": "es/index",
   "homepage": "http://github.com/react-component/tooltip",
   "maintainers": [
     "yiminghe@gmail.com"
@@ -67,17 +66,17 @@
     "enzyme-to-json": "^3.2.1",
     "jest": "^21.2.1",
     "pre-commit": "1.x",
-    "rc-tools": "^7.0.2",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "rc-tools": "^9.5.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   },
   "pre-commit": [
     "lint"
   ],
   "dependencies": {
-    "babel-runtime": "6.x",
-    "prop-types": "^15.5.8",
-    "rc-trigger": "^2.2.2",
+    "babel-runtime": "6.26.0",
+    "prop-types": "^15.7.2",
+    "rc-trigger": "^2.6.4",
     "positions": "^1.6.2"
   }
 }
