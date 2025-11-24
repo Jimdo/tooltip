@@ -1,6 +1,6 @@
 
 # Archieved 
-This repo is archived based on Mario's request https://jimdo.slack.com/archives/C02U0AANG/p1762444320862379
+This repo is archived based on Mario's request as it is outdated
 
 # rc-tooltip
 ---
